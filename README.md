@@ -22,4 +22,4 @@ I'm an economist, data scientist, and programmer with particularly robust expert
     - app to [predict historic premier league results](https://github.com/andrewjward/damidrew)
     - app to identify and recommend songs based on vibe
 - 👯 I’m looking to collaborate on DS and ML projects.
-- 📫 It's easiest to reach me via email
+- 📫 It's easiest to reach me via email. Pssst 🤫, look to your left 👈🏾
