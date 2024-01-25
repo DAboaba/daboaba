@@ -23,3 +23,5 @@ I'm an economist, data scientist, and programmer with particularly robust expert
     - app to identify and recommend songs based on vibe
 - 👯 I’m looking to collaborate on DS and ML projects.
 - 📫 It's easiest to reach me via email. Pssst 🤫, look to your left 👈🏾
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daboaba&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
