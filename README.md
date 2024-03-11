@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I'm an economist, data scientist, and programmer with particularly robust expertise in econometrics, R, automation, and data processing. I grew up (and was mostly raised) in a massive coastal city in West Africa. I spend too much time reading (I'm currently reading [Middlemarch](https://www.theguardian.com/books/2014/feb/10/100-best-novels-middlemarch-george-eliot)) and gaming (I can't get enough of [Hades](https://www.ign.com/articles/hades-review)).
 
-- 👔 I work @ a do-tank helping test promising solutions to city-specific public-policy challenges.
-- 🗣️ I write @ [shokunin](https://daboaba.github.io/shokunin/)
-- 🔭 I'm currently building an app to identify and recommend flowers using floricouture (pronounced floriculture), [flwrboi](https://github.com/DAboaba/flwrboi), and florist
-- 👯 I’m looking to collaborate on DS and ML projects.
-- 📫 It's easiest to reach me via email. Pssst 🤫, look to your left 👈🏾
+- 👔 @ a do-tank helping test promising solutions to city-specific public-policy challenges.
+- 🗣️ @ [shokunin](https://daboaba.github.io/shokunin/)
+- 🌸 currently building an app to identify and recommend flowers using floricouture (pronounced floriculture), [flwrboi](https://github.com/DAboaba/flwrboi), and florist
+- 👯 looking to collaborate on DS and ML projects.
+- 📫 via email. Pssst 🤫, look to your left 👈🏾
