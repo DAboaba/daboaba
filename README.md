@@ -19,6 +19,6 @@ I'm an economist, data scientist, and programmer with particularly robust expert
 
 - 👔 @ a do-tank helping test promising solutions to city-specific public-policy challenges.
 - 🗣️ @ [shokunin](https://daboaba.github.io/shokunin/)
-- 🌸 working on identifying and recommending flowers using floricouture (pronounced floriculture), [flwrboi](https://github.com/DAboaba/flwrboi), and florist
+- 🌸 working on identifying and recommending flowers using [floricouture](https://github.com/DAboaba/floricouture) (pronounced floriculture), [flwrboi](https://github.com/DAboaba/flwrboi), and [botanibabe](https://github.com/DAboaba/botanibabe)
 - 👯 looking to collaborate on DS and ML projects.
 - 📫 via email. Pssst 🤫, look to your left 👈🏾
